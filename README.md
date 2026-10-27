@@ -15,14 +15,4 @@ This project uses the **[OpenWeatherMap API](https://openweathermap.org/api)** t
 
 ## 🚀 Live Demo
 You can view the live application here:  
-👉 https://Eissej01.github.io/modern-weather-app/)
-
----
-
-## 🛠️ Getting Started Locally
-
-To run this project on your local machine:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<your-github-username>/modern-weather-app.git
+👉 https://Eissej01.github.io/modern-weather-app/
