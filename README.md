@@ -15,7 +15,7 @@ This project uses the **[OpenWeatherMap API](https://openweathermap.org/api)** t
 
 ## 🚀 Live Demo
 You can view the live application here:  
-👉 [https://<your-github-username>.github.io/modern-weather-app/](https://<your-github-username>.github.io/modern-weather-app/)
+👉 https://Eissej01.github.io/modern-weather-app/)
 
 ---
 
