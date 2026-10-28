@@ -15,4 +15,4 @@ This project uses the **[OpenWeatherMap API](https://openweathermap.org/api)** t
 
 ## 🚀 Live Demo
 You can view the live application here:  
-👉 https://Eissej01.github.io/modern-weather-app/
+👉 https://eissej01.github.io/weather-app/
