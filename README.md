@@ -1,5 +1,5 @@
 
-# 🌤️ Modern Weather App
+# 🌤️ Weather App using OpenWeatherMap API
 
 A sleek, responsive, and feature-rich weather web application built with vanilla JavaScript, HTML5, and CSS3. It features a modern glassmorphic design that dynamically changes its visual theme and custom vector graphics based on real-time weather conditions.
 
